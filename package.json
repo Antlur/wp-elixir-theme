@@ -1,0 +1,25 @@
+{
+  "name": "wp-elixir-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antlur/wp-elixir-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antlur/wp-elixir-theme/issues"
+  },
+  "homepage": "https://github.com/antlur/wp-elixir-theme#readme",
+  "dependencies": {
+    "laravel-elixir": "^6.0.0-11"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
